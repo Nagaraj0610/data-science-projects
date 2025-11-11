@@ -1,6 +1,6 @@
 Functions & Features
 
-This repository provides a complete end-to-end workflow for each of the 100 projects:
+This repository provides a complete end-to-end workflow 
 
 📥 Data Handling – Collect, load, and preprocess datasets (CSV, API, scraping, etc.)
 
